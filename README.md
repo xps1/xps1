@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xps1
 - 👀 I’m interested in Data Structures and Algorithms, and Cyber Security
-- 🌱 I’m currently learning iOS APp Development
+- 🌱 I’m currently learning iOS APP Development
 - 💞️ I’m looking to collaborate on new websites and applications or problems to solve
 - 📫 How to reach me contact at prakharsharan27@gmail.com
 
