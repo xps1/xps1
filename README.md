@@ -30,8 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** and **Data Scien
 I'm always open to discussing data science and analytics, so feel free to reach out if you'd like to collaborate, share ideas, or just chat about the future of data!
 
 - 📧 **Email**: prakharsharan27@gmail.com
-- 🌐 **LinkedIn**: [Prakhar Sharan](https://www.linkedin.com/in/prakharsharan)
-- 🐦 **Twitter**: [@PrakharSharan](https://twitter.com/PrakharSharan)
+- 🌐 **LinkedIn**: [Prakhar Sharan](https://www.linkedin.com/in/prakhar-sharan/)
 
 Let's use the power of data to make better decisions! 📊🚀
 
